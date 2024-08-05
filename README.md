@@ -4,4 +4,4 @@
 ### 팀이름 : 잘자요 아가씨
 * 프로그램 이름 : 캄캄(calmcalm)
 
-<img src="./img/메인페이지.png" width="500px" height="300px">
+<img src="./img/메인페이지.png" width="200px" height="500px">
